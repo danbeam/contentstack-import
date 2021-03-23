@@ -25,6 +25,7 @@ Update configuration details at config/index.js
  target_stack: '', // Stack api_key. This is the stack, where the data will be imported
  management_token: '' //Stack management_token
  data: '' // The data that's to be exported. This is generally the one exported via the contentstack-export utility. ex: '../contentstack-export/contents'. Kindly provide the relative path to the directory
+}
 ```
 
 ## Usage
